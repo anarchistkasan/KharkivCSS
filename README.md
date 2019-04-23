@@ -1,5 +1,5 @@
 # KharkivCSS
-#The Web Design Cheat Code: Using SVG to bridge CSS’ gaps - Lea Verou
+# The Web Design Cheat Code: Using SVG to bridge CSS’ gaps - Lea Verou
 
 Highly recommended book by Lea - https://www.amazon.com/CSS-Secrets-Lea-Verou/dp/1449372635?tag=leaverou-20
 
@@ -27,12 +27,12 @@ https://mavo.io/ - create webaps w/o backend
     squiggle vision demo
 
 
-#WCAG: accessibility in practice - Dmytro Popov
+# WCAG: accessibility in practice - Dmytro Popov
 
 not really interesting talk about WCAG standarts
 
 
-#Logging productivity - Anton Nemtsev
+# Logging productivity - Anton Nemtsev
 
 https://github.com/SilentImp/performance
 
@@ -60,7 +60,7 @@ CI:
         expres-formidable - sendBeacon vs fetch
 
 
-#Houdini - Nikita Dubko
+# Houdini - Nikita Dubko
 
 https://css-houdini.rocks/
 
@@ -82,12 +82,12 @@ pureCSS images
 http://houdini.glitch.me/
 
 
-#Framer X - Valery Skorobohatko
+# Framer X - Valery Skorobohatko
 
 demo presentation of Using Framer X
 
 
-#UX as a layout base - Olena Shpilevska
+# UX as a layout base - Olena Shpilevska
 
     UX is all about patterns
     devs to check designers
@@ -100,7 +100,7 @@ demo presentation of Using Framer X
     Dan Norman - Let'd not forget why we are here. Let's make products for people
 
 
-#ebFonts in 2019: Everything Changes - Chris Lilley
+# WebFonts in 2019: Everything Changes - Chris Lilley
 
 
     variable fonts
